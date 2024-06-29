@@ -1,2 +1,6 @@
-# Fake-Social-Media-Profile-Detection-mode-
-### Fake Social Media Profile Detection Model  This project involves a fake social media profile detection model built using artificial neural networks (ANN) and deployed on Streamlit. The model analyzes user data to identify fake profiles with high accuracy, providing a user-friendly interface for quick and efficient detection.
+# Detecting Fake Social Media Profile - Twitter data
+
+datset description: https://developer.twitter.com/en/docs/twitter-api/v1/data-dictionary/object-model/user
+
+1) Input required user profile data in the prediction_df inside the fake_profile_ann.py
+2) Run fake_profile_ann.py to make prediction
